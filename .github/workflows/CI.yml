@@ -1,4 +1,4 @@
-name: Build RM2100 rainbow kvr from vb1980 private repo
+name: Build RM26100 rainbow kvr from vb1980 private repo
 
 on: 
   workflow_dispatch:
